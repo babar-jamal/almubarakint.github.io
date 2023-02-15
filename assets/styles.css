@@ -20,13 +20,14 @@
     }
     .jumbotron {
         /*background-color: #f4511e;*/
-        background-image: url("images/distribution.jpg");
+        background-image: url("images/plant.jpeg");
         background-position: center; /* Center the image */
         background-repeat: no-repeat; /* Do not repeat the image */
         background-size: cover; /* Resize the background image to cover the entire container */
         padding: 100px 25px;
         color: #fff;
         font-family: Montserrat, sans-serif;
+        min-height: 400px;
     }
     .container-fluid {
         padding: 60px 50px;
